@@ -1,7 +1,7 @@
-# 👋 Hi, I’m @amsyarzulkifly  
+# @amsyarzulkifly  
 
 - 📫 Email: amsyarzulkifly@gmail.com  
-- 🤝 Open to connect and collaborate on data-driven projects.  
+- 🤝🏻 Open to connect and collaborate on data-driven projects.  
 
 <!---
 amsyarzulkifly/amsyarzulkifly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
